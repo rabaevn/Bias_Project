@@ -12,7 +12,7 @@ This repository contains a modular, reproducible pipeline for evaluating machine
 │   ├── counterfactual.py      # Perturbs protected attributes and analyzes fairness
 │   └── ttest_analysis.py      # Performs t-tests to assess statistical significance
 ├── data/
-│   └── adult.csv              # UCI Adult dataset (not included — download separately)
+│   └── adult.csv              # UCI Adult dataset 
 ├── requirements.txt           # Python package dependencies
 └── README.md
 ```
